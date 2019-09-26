@@ -32,7 +32,7 @@ This code uses Ceres, OpenCV 3.0, and Eigen libraries and is built as a ROS pack
 In your [catkin workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace):
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/HKUST-RML/shallow_depth_insertion.git
+git clone https://github.com/chjohnkim/handeye_calib.git
 cd ..
 catkin_make
 ```
