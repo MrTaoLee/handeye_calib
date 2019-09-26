@@ -1,0 +1,6 @@
+# Robot parameters 
+tcp_speed: 0.5
+motion_range: 0.2
+orientation_range: 0.5
+
+
